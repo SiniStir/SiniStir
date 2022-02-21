@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SiniStir
-- 👀 I’m interested in Web
+- 👀 I’m interested in Web kaifa
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me QQ：1574811658
+- 💞️ I’m looking to collaborate on get more money tomorrow
+- 📫 How to reach me QQ：1574811658 web：www.gujiaqi.cf
 
 <!---
 SiniStir/SiniStir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
